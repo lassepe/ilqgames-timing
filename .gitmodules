@@ -1,0 +1,6 @@
+[submodule "submodules/ilqgames-py-cpp"]
+	path = submodules/ilqgames-py-cpp
+	url = git@github.com:lassepe/ilqgames
+[submodule "submodules/iLQGames.jl"]
+	path = submodules/iLQGames.jl
+	url = git@github.com:lassepe/iLQGames.jl
